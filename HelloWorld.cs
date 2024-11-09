@@ -7,7 +7,7 @@ public class HelloWorld : MonoBehaviour
     //start is called before the first frame update
     void Start()
     {
-        Destroy(gameObject);
+        print("HelloWorld!")
     }
 
     //update is called one per frame
