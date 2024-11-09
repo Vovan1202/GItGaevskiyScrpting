@@ -13,6 +13,6 @@ public class HelloWorld : MonoBehaviour
     //update is called one per frame
     void Update()
     {
-        print("cricket");
+        
     }
 }
